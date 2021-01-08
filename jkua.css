@@ -1,18 +1,8 @@
-/* Default css file for jemdoc. */
-
 table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
 }
-
-/*body {
-	background: white;
-	font-family: Georgia, serif;
-	padding-bottom: 8px;
-	margin: 0;
-}
-*/
 
 body {
 	background: white;
