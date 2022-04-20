@@ -4,6 +4,7 @@ table#tlayout {
     background: white;
 }
 
+/*
 body {
 	background: white;
 	font-family: Arial, Helvetica, sans-serif;
@@ -12,6 +13,17 @@ body {
 	padding:5 5 5 35;
 	margin: 0;
 }
+*/
+
+body {
+	background: white;
+	font-family: Georgia, serif;
+	font-size: 100%;
+	height: 25px;
+	padding:5 5 5 35;
+	margin: 0;
+}
+
 
 #layout-menu {
 	background: #f6f6f6;
